@@ -7,7 +7,7 @@
 ```javascript
 const jack = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, .NET, Go, Python, C++],
+  code: [Javascript, Typescript,  Go, Python, C++, Lua],
   tools: [React, Next, Node, Docker, Flask],
   architecture: ["backend developer", "security student"],
   techCommunities: {
