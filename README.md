@@ -1,1 +1,2 @@
-
+- Medium: https://jack2buffer.medium.com
+- Gist: https://gist.github.com/J4c5
